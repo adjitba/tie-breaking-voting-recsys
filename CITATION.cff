@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below, together with the associated paper."
+title: "tie-breaking-voting-recsys: code and results for tie-breaking in voting-based recommendation"
+type: software
+license: MIT
+authors:
+  - family-names: Adji
+    given-names: Teguh Bharata
+    email: adji@ugm.ac.id
+    affiliation: "Department of Electrical and Information Engineering, Universitas Gadjah Mada"
+  - family-names: Wibirama
+    given-names: Sunu
+    affiliation: "Department of Electrical and Information Engineering, Universitas Gadjah Mada"
+  - family-names: Nugroho
+    given-names: Hanung Adi
+    affiliation: "Department of Electrical and Information Engineering, Universitas Gadjah Mada"
+version: "1.0.0"
+date-released: "2026-11-10"
+keywords:
+  - recommender systems
+  - tie-breaking
+  - social choice
+  - group recommendation
+repository-code: "https://github.com/adjitba/tie-breaking-voting-recsys"
+preferred-citation:
+  type: article
+  title: "Tie-breaking in voting-based recommendation: an order-preserving bound and an empirical study of six aggregation strategies"
+  journal: "Array"
+  year: 2026
+  notes: "Manuscript submitted"
+  authors:
+    - family-names: Adji
+      given-names: Teguh Bharata
+      affiliation: "Department of Electrical and Information Engineering, Universitas Gadjah Mada"
+    - family-names: Wibirama
+      given-names: Sunu
+      affiliation: "Department of Electrical and Information Engineering, Universitas Gadjah Mada"
+    - family-names: Nugroho
+      given-names: Hanung Adi
+      affiliation: "Department of Electrical and Information Engineering, Universitas Gadjah Mada"

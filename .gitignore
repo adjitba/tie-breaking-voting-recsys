@@ -1,0 +1,20 @@
+# Datasets (see data/README.md)
+data/*
+!data/README.md
+
+# Large per-user results (archived on Zenodo) and generated outputs
+results/*-masthoff
+results/*-candidates
+results/beta_shrunk/per_user_*.csv
+results/paper/figures/
+results/paper/tables/
+results/paper/*.png
+results/masthoff/Figure_M1.*
+results/masthoff/Table_M*.*
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
